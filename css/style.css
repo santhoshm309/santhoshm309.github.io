@@ -822,7 +822,7 @@ a.totop-link {
     margin: 0 0 5px 0
 }
 .education-details {
-    float: left
+
 }
 .education-details i {
     transition-duration: .2s;
@@ -912,7 +912,7 @@ a.totop-link {
    #Last Screen
    ========================================================================== */
 .introduction-end {
-    background: url(http://placehold.it/1608x1080/000)no-repeat right top;
+    background-color: #9e9e9e;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
